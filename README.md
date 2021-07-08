@@ -2,6 +2,15 @@
 
 ## Build Setup
 
+Reproduction steps:
+
+```bash
+# Clone into directory with "null" in the name
+$ npm install
+$ npm run build
+
+# Insert error here about file not found```
+
 ```bash
 # install dependencies
 $ npm install
