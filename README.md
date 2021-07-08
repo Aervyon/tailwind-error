@@ -1,4 +1,4 @@
-# null-tailwind-dir-repro
+# tailwind-error
 
 ## Build Setup
 
